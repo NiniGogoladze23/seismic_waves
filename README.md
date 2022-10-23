@@ -12,3 +12,4 @@ Seismic waves are used to infer properties of subsurface geological structures. 
 - seismic2.m - Wave with a smaller amplitude
 - seismic3.m - A case where the horizontal and vertical velocities are equal
 - seismic_waves.pdf - Explaining the general mathematical model for deformations in an elastic medium
+- სეისმური ტალღები.pdf - Georgian version of the seismic_waves.pdf
